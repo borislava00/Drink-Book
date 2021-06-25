@@ -1,7 +1,7 @@
 #include "ClubsBase.h"
-//#include "FolkClub.h"
-//#include "HouseClub.h"
-//#include "RockClub.h"
+#include "FolkClub.h"
+#include "HouseClub.h"
+#include "RockClub.h"
 
 class Clubs
 {

@@ -4,6 +4,7 @@
 
 int main()
 {
+	std::cout<<"Hello world";
 	Clubs club;
 	club.addFolkClub("Plaza", 30, 45, "Preslava");
 	club.addRockClub("Underground", 40, 45);
@@ -18,7 +19,4 @@ int main()
 	club.addToClub(user2, "Plaza");
 
 	club.removeFromClub("Stefan", "Underground");
-
-	
-
 }
